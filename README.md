@@ -1,4 +1,6 @@
 # tibame_virtual_makeup_linebot
+<img src="diagram.jpg" alt="Screenshot of Line Bot in Action" width="500"/>
+
 
 ## About
 This project draws inspiration from the official Line accounts of makeup brands. It combines virtual makeup try-on with personalized cosmetic recommendations, aiming to provide users with a sophisticated and convenient makeup experience.
