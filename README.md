@@ -1,5 +1,5 @@
 # tibame_virtual_makeup_linebot
-<img src="diagram.jpg" alt="Screenshot of Line Bot in Action" width="500"/>
+<img src="diagram.jpg" alt="Screenshot of Line Bot in Action" width="700"/>
 
 
 ## About
